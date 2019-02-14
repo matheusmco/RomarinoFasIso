@@ -1,0 +1,5 @@
+V. 1.1a 14/05/2014
+- Implementado sistema de escolha gráfica de "Jogar Novamente"
+
+V. 1.1b 15/05/2014
+- Colisão refinada
